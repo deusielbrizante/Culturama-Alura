@@ -54,6 +54,13 @@
     grid-column: 1/3;
 }
 
+.eventos__botao{
+    align-self: flex-end;
+}
+.agenda__botao{
+    align-self:flex-end;
+}
+
 @media(min-width:720px){
 
     .banner{
